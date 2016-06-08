@@ -1,1 +1,2 @@
 # Naive-Bayes-Classifier
+Implemented and evaluated the performance of a basic Naive Bayes classifier algorithm with Laplace Smoothing that classifies hotel reviews into 4 categories- positive truthful ,positive deceptive,negative truthful , negative deceptive. Result of the evaluation was a weighted average of 0.9145 over the F1 values for the four-way classification on test data.
